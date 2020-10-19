@@ -8,4 +8,4 @@ for i in range(1, 9) :
         max_n = lst[i]
         max_i = i+1
 print(max_n)
-print(i)
+print(max_i)
