@@ -11,3 +11,4 @@ for _ in range(case):
                 if i == m :
                     break
     print(count)
+
